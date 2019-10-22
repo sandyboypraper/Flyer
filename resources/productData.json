@@ -1,0 +1,39 @@
+[
+  {
+    "product_pk": "AF",
+    "product_name": "Afghanistan",
+    "product_price": 120,
+    "images": {
+      "main_images": [
+        { "url": "imgs/survey.png", "pk": 2 },
+        { "url": "imgs/survey.png", "pk": 3 }
+      ],
+      "sub_images": [
+        { "url": "imgs/survey.png", "pk": 2 },
+        { "url": "imgs/survey.png", "pk": 3 },
+        { "url": "imgs/survey.png", "pk": 2 },
+        { "url": "imgs/survey.png", "pk": 3 }
+      ]
+    }
+  },
+  {
+    "product_pk": "AX",
+    "product_name": "Aland Islands",
+    "product_price": 140,
+    "images": {
+      "main_images": [
+        { "url": "imgs/survey.png", "pk": 2 },
+        { "url": "imgs/survey.png", "pk": 3 },
+        { "url": "imgs/survey.png", "pk": 3 }
+      ],
+      "sub_images": [
+        { "url": "imgs/survey.png", "pk": 2 },
+        { "url": "imgs/survey.png", "pk": 3 },
+        { "url": "imgs/survey.png", "pk": 2 },
+        { "url": "imgs/survey.png", "pk": 3 },
+        { "url": "imgs/survey.png", "pk": 3 },
+        { "url": "imgs/survey.png", "pk": 3 }
+      ]
+    }
+  }
+]

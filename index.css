@@ -1,0 +1,76 @@
+body {
+  /* background: darksalmon; */
+}
+
+.mybox {
+  padding: 20px;
+}
+
+.inlinebtn {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.list-group {
+  margin-top: 0px !important;
+}
+
+input {
+  display: inline !important;
+}
+
+.thumbnail {
+  max-width: 100px;
+}
+
+.productsec {
+  margin-top: 60px !important;
+}
+
+.section {
+  margin-top: 100px !important;
+}
+
+.dropdowncat {
+  margin-top: 60px !important;
+}
+
+.logo {
+  position: relative;
+}
+
+.logoimg {
+  width: 80px !important;
+  margin-bottom: 0px !important;
+}
+
+.logoimgsection {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+}
+
+.pid {
+  margin-top: 0px !important;
+}
+
+.pimage {
+  margin-top: 100px;
+}
+
+.pimg {
+  width: 50vw;
+}
+
+.rightsec {
+  background-color: darkslategray;
+  height: 90vh;
+  position: relative;
+}
+
+.barcode {
+  width: 200px !important;
+  position: absolute;
+  bottom: 30px;
+  right: 20px;
+}

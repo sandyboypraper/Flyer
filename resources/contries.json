@@ -1,0 +1,12 @@
+[
+  { "name": "Afghanistan", "code": "AF", "img": "imgs/survey.png" },
+  { "name": "Aland Islands", "code": "AX", "img": "imgs/survey.png" },
+  { "name": "Albania", "code": "AL", "img": "imgs/survey.png" },
+  { "name": "Algeria", "code": "DZ", "img": "imgs/survey.png" },
+  { "name": "American Samoa", "code": "AS", "img": "imgs/survey.png" },
+  { "name": "Afdhanistan", "code": "AF", "img": "imgs/survey.png" },
+  { "name": "Aldnd Islands", "code": "AX", "img": "imgs/survey.png" },
+  { "name": "Aldania", "code": "AL", "img": "imgs/survey.png" },
+  { "name": "Alderia", "code": "DZ", "img": "imgs/survey.png" },
+  { "name": "Amdrican Samoa", "code": "AS", "img": "imgs/survey.png" }
+]
